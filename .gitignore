@@ -29,10 +29,8 @@ yarn-error.log*
 .pnpm-debug.log*
 lerna-debug.log*
 
-# env — secrets stay local; .env.local is the docker template
+# env — secrets stay local
 .env*
-!.env.local
-!.env.example
 
 # editor / AI / IDE
 .cursor/
@@ -60,4 +58,3 @@ docker/certbot/www/
 
 # misc local
 *.local
-!.env.local
