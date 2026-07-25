@@ -1,0 +1,28 @@
+.prose-invert {
+  color: var(--color-muted);
+  line-height: 1.6;
+}
+
+.prose-invert h1,
+.prose-invert h2,
+.prose-invert h3 {
+  color: var(--color-fg);
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.prose-invert p,
+.prose-invert ul,
+.prose-invert ol {
+  margin-bottom: 0.75em;
+}
+
+.prose-invert a {
+  color: #34d399;
+  text-decoration: underline;
+}
+
+.prose-invert strong {
+  color: var(--color-fg);
+}

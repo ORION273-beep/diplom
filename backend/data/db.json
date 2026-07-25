@@ -1,0 +1,430 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "slug": "pubg-mobile",
+      "name": "PUBG Mobile",
+      "cover": "https://assets.change.org/photos/9/ke/af/TUKeAFYXebNFXDc-1600x900-noPad.jpg?1560182562",
+      "genres": [
+        "Battle Royale",
+        "Шутер",
+        "Мобильные"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "description": "Классическая королевская битва от Tencent Games в мобильном формате",
+      "popular": true
+    },
+    {
+      "id": "2",
+      "slug": "genshin-impact",
+      "name": "Genshin Impact",
+      "cover": "https://upload-os-bbs.hoyolab.com/upload/2022/07/11/27897384/4cce82216bdc35b5265387fb34beffaa_1590857787713958622.png",
+      "genres": [
+        "Action RPG",
+        "Открытый мир",
+        "Аниме"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation",
+        "Android",
+        "iOS"
+      ],
+      "description": "Открытый мир в стиле аниме с элементами гача и кооперативом",
+      "popular": true
+    },
+    {
+      "id": "3",
+      "slug": "free-fire",
+      "name": "Garena Free Fire",
+      "cover": "https://cdn-www.bluestacks.com/bs-images/%D0%9A%D0%B0%D0%BA-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%82%D1%8C-%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5-%D1%85%D0%B5%D0%B4%D1%88%D0%BE%D1%82%D0%BE%D0%B2-%D0%B2-Free-Fire.png",
+      "genres": [
+        "Battle Royale",
+        "Шутер",
+        "Мобильные"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "description": "Очень популярная мобильная королевская битва с короткими матчами",
+      "popular": true
+    },
+    {
+      "id": "4",
+      "slug": "brawl-stars",
+      "name": "Brawl Stars",
+      "cover": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1vNqGW9Rd2Cikgaf5JdgBG/58045f465333a0a439765a5944c28bbc/BS-WF-KV2023v2-Blog.png",
+      "genres": [
+        "MOBA",
+        "Шутер",
+        "Мобильные"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "description": "Динамичные 3v3 и одиночные бои от Supercell",
+      "popular": false
+    },
+    {
+      "id": "5",
+      "slug": "minecraft",
+      "name": "Minecraft",
+      "cover": "https://ir.ozone.ru/s3/multimedia-1-o/7256266008.jpg",
+      "genres": [
+        "Песочница",
+        "Выживание",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC",
+        "PlayStation",
+        "Xbox",
+        "Switch",
+        "Мобильные"
+      ],
+      "description": "Культовый мир из блоков, где можно строить всё что угодно",
+      "popular": true
+    },
+    {
+      "id": "6",
+      "slug": "roblox",
+      "name": "Roblox",
+      "cover": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/11/08/roblox-rblx-q3-2021-earnings-release-beat-revenue-growth_feature.png",
+      "genres": [
+        "Платформа",
+        "Создание игр",
+        "Мультиплеер"
+      ],
+      "platforms": [
+        "PC",
+        "Мобильные",
+        "Xbox"
+      ],
+      "description": "Платформа для создания и игры в игры, созданные пользователями",
+      "popular": true
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "PUBG Mobile — 60 UC",
+      "category": "pubg-mobile",
+      "platform": "mobile",
+      "price": 89,
+      "oldPrice": 99,
+      "image": "/images/pubg-uc.png",
+      "description": "60 UC. Обычно падает сразу после оплаты.",
+      "popular": true,
+      "inStock": true,
+      "gameSlug": "pubg-mobile",
+      "stock": 47
+    },
+    {
+      "id": "2",
+      "title": "Genshin Impact — 300 Genesis Crystals",
+      "category": "genshin-impact",
+      "platform": "mobile",
+      "price": 349,
+      "oldPrice": null,
+      "image": "https://preview.redd.it/how-does-the-bonus-system-work-v0-4hx1uvq48ybg1.jpeg?auto=webp&s=1eade2116646c1534176e915654a45172b23e61d",
+      "description": "300 кристаллов + бонус. Проверь регион аккаунта.",
+      "popular": false,
+      "inStock": true,
+      "gameSlug": "genshin-impact",
+      "stock": 12
+    },
+    {
+      "id": "3",
+      "title": "Steam — Карта 500 ₽",
+      "category": "steam",
+      "platform": "pc",
+      "price": 515,
+      "oldPrice": 550,
+      "image": "https://avatars.mds.yandex.net/i?id=859d96fe02b6f8273a627fe13b3788bfe9ba9bc3-16512301-images-thumbs&n=13",
+      "description": "Steam 500 ₽, RU. Код придёт в заказе.",
+      "popular": true,
+      "inStock": true,
+      "gameSlug": null,
+      "stock": 200
+    },
+    {
+      "id": "4",
+      "title": "Roblox — 400 Robux",
+      "category": "roblox",
+      "platform": "mobile",
+      "price": 399,
+      "oldPrice": null,
+      "image": "/products/roblox-400-robux.png",
+      "description": "400 Robux",
+      "popular": false,
+      "inStock": true,
+      "gameSlug": "roblox",
+      "stock": 3
+    },
+    {
+      "id": "5",
+      "title": "Apple & iTunes",
+      "category": "apple",
+      "platform": "mobile",
+      "price": 900,
+      "oldPrice": null,
+      "image": "https://cdn.kupikod.com/shop/catalog/itunes-10-try.png",
+      "description": "iTunes 10 USD — временно нет",
+      "popular": false,
+      "inStock": false,
+      "gameSlug": null,
+      "stock": 0
+    },
+    {
+      "id": "6",
+      "title": "Netflix Premium — 1 месяц",
+      "category": "subscriptions",
+      "platform": "pc",
+      "price": 790,
+      "oldPrice": 990,
+      "image": "/products/netflix-premium.png",
+      "description": "Доступ к Netflix Premium на 30 дней",
+      "popular": true,
+      "inStock": true,
+      "gameSlug": null,
+      "stock": 88
+    },
+    {
+      "id": "7",
+      "title": "Spotify Premium — 1 месяц",
+      "category": "subscriptions",
+      "platform": "mobile",
+      "price": 390,
+      "oldPrice": 490,
+      "image": "/products/spotify-premium.png",
+      "description": "Spotify на месяц. Логин/пароль не просим — работаем через инвайт.",
+      "popular": false,
+      "inStock": true,
+      "gameSlug": null,
+      "stock": 15
+    },
+    {
+      "id": "8",
+      "title": "YouTube Premium — 1 месяц",
+      "category": "subscriptions",
+      "platform": "mobile",
+      "price": 450,
+      "oldPrice": 550,
+      "image": "/products/youtube-premium.png",
+      "description": "YouTube Premium без рекламы на 30 дней",
+      "popular": false,
+      "inStock": true,
+      "gameSlug": null,
+      "stock": 76
+    },
+    {
+      "id": "12",
+      "title": "Free Fire — 100 алмазов",
+      "category": "free-fire",
+      "platform": "mobile",
+      "price": 119,
+      "oldPrice": 139,
+      "image": "https://cdn-www.bluestacks.com/bs-images/%D0%9A%D0%B0%D0%BA-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%82%D1%8C-%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5-%D1%85%D0%B5%D0%B4%D1%88%D0%BE%D1%82%D0%BE%D0%B2-%D0%B2-Free-Fire.png",
+      "description": "Набор алмазов для Garena Free Fire",
+      "popular": true,
+      "inStock": true,
+      "gameSlug": "free-fire",
+      "stock": 24
+    },
+    {
+      "id": "13",
+      "title": "Free Fire — 530 алмазов",
+      "category": "free-fire",
+      "platform": "mobile",
+      "price": 579,
+      "oldPrice": 649,
+      "image": "https://cdn-www.bluestacks.com/bs-images/%D0%9A%D0%B0%D0%BA-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%82%D1%8C-%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5-%D1%85%D0%B5%D0%B4%D1%88%D0%BE%D1%82%D0%BE%D0%B2-%D0%B2-Free-Fire.png",
+      "description": "Увеличенный пакет алмазов для Garena Free Fire",
+      "popular": true,
+      "inStock": true,
+      "gameSlug": "free-fire",
+      "stock": 31
+    },
+    {
+      "id": "14",
+      "title": "Brawl Stars — 80 гемов",
+      "category": "brawl-stars",
+      "platform": "mobile",
+      "price": 149,
+      "oldPrice": 179,
+      "image": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1vNqGW9Rd2Cikgaf5JdgBG/58045f465333a0a439765a5944c28bbc/BS-WF-KV2023v2-Blog.png",
+      "description": "Пакет гемов для Brawl Stars",
+      "popular": true,
+      "inStock": true,
+      "gameSlug": "brawl-stars",
+      "stock": 38
+    },
+    {
+      "id": "15",
+      "title": "Brawl Stars — 360 гемов",
+      "category": "brawl-stars",
+      "platform": "mobile",
+      "price": 599,
+      "oldPrice": 699,
+      "image": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1vNqGW9Rd2Cikgaf5JdgBG/58045f465333a0a439765a5944c28bbc/BS-WF-KV2023v2-Blog.png",
+      "description": "Средний пакет гемов для Brawl Stars",
+      "popular": false,
+      "inStock": true,
+      "gameSlug": "brawl-stars",
+      "stock": 9
+    },
+    {
+      "id": "16",
+      "title": "Minecraft Minecoins — 320",
+      "category": "minecraft",
+      "platform": "mobile",
+      "price": 289,
+      "oldPrice": 329,
+      "image": "https://ir.ozone.ru/s3/multimedia-1-o/7256266008.jpg",
+      "description": "Minecoins 320. Хватит на пару скинов.",
+      "popular": false,
+      "inStock": true,
+      "gameSlug": "minecraft",
+      "stock": 31
+    },
+    {
+      "id": "17",
+      "title": "PUBG Mobile — 325 UC",
+      "category": "pubg-mobile",
+      "platform": "mobile",
+      "price": 429,
+      "oldPrice": 499,
+      "image": "/images/pubg-uc.png",
+      "description": "Пакет 325 UC для PUBG Mobile",
+      "popular": true,
+      "inStock": true,
+      "gameSlug": "pubg-mobile",
+      "stock": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": "pubg-mobile",
+      "name": "PUBG Mobile",
+      "icon": "pubg",
+      "type": "currency"
+    },
+    {
+      "id": "genshin-impact",
+      "name": "Genshin Impact",
+      "icon": "genshin",
+      "type": "currency"
+    },
+    {
+      "id": "steam",
+      "name": "Steam",
+      "icon": "steam",
+      "type": "wallet"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "icon": "apple",
+      "type": "wallet"
+    },
+    {
+      "id": "roblox",
+      "name": "Roblox",
+      "icon": "roblox",
+      "type": "currency"
+    },
+    {
+      "id": "free-fire",
+      "name": "Garena Free Fire",
+      "icon": "freefire",
+      "type": "currency"
+    },
+    {
+      "id": "brawl-stars",
+      "name": "Brawl Stars",
+      "icon": "brawl",
+      "type": "currency"
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft",
+      "icon": "minecraft",
+      "type": "currency"
+    },
+    {
+      "id": "subscriptions",
+      "name": "Подписки",
+      "icon": "subscription",
+      "type": "subscription"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "fgf@mail.ru",
+      "password": "$2b$10$nn4gPcdFNJDVSlIP.jzXCuhx2kW5YT4AKiE5CssfYfb/.Gy7Dmow.",
+      "role": "user",
+      "createdAt": "2026-02-20T10:29:37.744Z"
+    },
+    {
+      "id": "2",
+      "email": "ffffgdgf@mail.ru",
+      "password": "$2b$10$OHSRTvqtHDChrKuikq.b9emxkL7/59Ads08A/NRZbNMGktGClwj52",
+      "role": "admin",
+      "createdAt": "2026-02-22T21:24:01.246Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": "1",
+      "status": "completed",
+      "totalAmount": 89,
+      "items": [
+        {
+          "productId": "1",
+          "title": "PUBG Mobile — 60 UC",
+          "quantity": 1,
+          "priceAtPurchase": 89,
+          "image": "/images/pubg-uc.png"
+        }
+      ],
+      "createdAt": "2025-04-05T10:00:00Z"
+    },
+    {
+      "id": "0888",
+      "userId": "1",
+      "status": "pending",
+      "totalAmount": 89,
+      "items": [
+        {
+          "productId": "1",
+          "title": "PUBG Mobile — 60 UC",
+          "quantity": 1,
+          "priceAtPurchase": 89
+        }
+      ],
+      "createdAt": "2026-02-24T18:53:20.016Z"
+    },
+    {
+      "id": "6ee9",
+      "userId": "1",
+      "status": "pending",
+      "totalAmount": 399,
+      "items": [
+        {
+          "productId": "4",
+          "title": "Roblox — 400 Robux",
+          "quantity": 1,
+          "priceAtPurchase": 399
+        }
+      ],
+      "createdAt": "2026-02-24T19:38:30.968Z"
+    }
+  ]
+}

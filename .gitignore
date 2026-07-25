@@ -1,0 +1,63 @@
+# dependencies
+node_modules/
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# build / cache
+dist/
+build/
+.vite/
+.cache/
+.turbo/
+*.tsbuildinfo
+
+# testing
+coverage/
+.nyc_output/
+
+# logs / debug
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+lerna-debug.log*
+
+# env — secrets stay local; .env.local is the docker template
+.env*
+!.env.local
+!.env.example
+
+# editor / AI / IDE
+.cursor/
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# secrets / certs
+*.pem
+*.key
+*.crt
+*.p12
+docker/certbot/conf/
+docker/certbot/www/
+
+# misc local
+*.local
+!.env.local

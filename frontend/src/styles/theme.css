@@ -1,0 +1,13 @@
+@theme {
+  --font-body: "Manrope", system-ui, "Segoe UI", sans-serif;
+  --font-display: "Manrope", system-ui, "Segoe UI", sans-serif;
+
+  --color-page: #0b0d10;
+  --color-surface: #12161b;
+  --color-surface-raised: #181d24;
+  --color-surface-alt: #1c2229;
+  --color-secondary: #0f1a14;
+  --color-line: #2a3138;
+  --color-fg: #e8eaed;
+  --color-muted: #9aa3ad;
+}
